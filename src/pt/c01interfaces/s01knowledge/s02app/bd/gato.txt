@@ -1,0 +1,7 @@
+"eh fofinho", "sim"
+"gosta d eleite", "sim"
+"tem rabo", "sim"
+"gosta de agua", "nao"
+"tem pelos", "sim"
+"tem 4 patas", "sim"
+"eh mamifero", "sim"
